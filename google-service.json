@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "947151073301",
+    "project_id": "prompt-earn",
+    "storage_bucket": "prompt-earn.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947151073301:android:e48e6892e80b14c016de1c",
+        "android_client_info": {
+          "package_name": "com.prompearn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi46f3XlsOatdEK-1wbhdg-TkTlosdxy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
